@@ -2,7 +2,7 @@
 
 this section consist of:
 
-Measure of Central Tendency
-Measure of Dispersion (Variability)
-Shape of The Data
-How descriptive Statistic used in Data Science
+* Measure of Central Tendency
+* Measure of Dispersion (Variability)
+* Shape of The Data
+* How descriptive Statistic used in Data Science
